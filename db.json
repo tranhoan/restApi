@@ -49,12 +49,5 @@
       {"name": "hoang hoang hoang", "state": "active", "topic": "random topic 2"},
       {"name": "marek danik", "state": "active", "topic": "random topicsss 1"},
       {"name": "honza nevsimal", "state": "active", "topic": "random topic 1dsadsa"},
-      {"name": "hoang tranfafa", "state": "active", "topic": "random topic 122"}]}],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+      {"name": "hoang tranfafa", "state": "active", "topic": "random topic 122"}]}]
 }
