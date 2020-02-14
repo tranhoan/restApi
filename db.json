@@ -1,9 +1,4 @@
 {
   "doctorands": [{ "page": 1, "data": [{"name": "hoang tran", "state": "active", "topic": "random topic 1"},
-      {"name": "tadeas kyral", "state": "active", "topic": "random topic 33"},
-      {"name": "dominik kouba", "state": "active", "topic": "random topic 2"},
-      {"name": "denis barucic", "state": "active", "topic": "random topic 4444444"},
-      {"name": "marek danik", "state": "active", "topic": "random topicsss 1"},
-      {"name": "honza nevsimal", "state": "active", "topic": "random topic 1dsadsa"},
       {"name": "hoang tranfafa", "state": "active", "topic": "random topic 122"}]}]
 }
